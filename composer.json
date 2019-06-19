@@ -12,8 +12,5 @@
       "name": "Ashley Rich",
       "email": "hello@ashleyrich.com"
     }
-  ],
-  "autoload": {
-    "classmap": [ "classes/" ]
-  }
+  ]
 }
